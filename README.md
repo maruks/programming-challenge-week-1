@@ -5,3 +5,6 @@ lein test
 lein uberjar
 
 ./run.sh
+
+screencast
+https://www.youtube.com/watch?v=eOmBXbclXEg
